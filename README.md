@@ -1,2 +1,0 @@
-# Yusr
-Graduation project application
